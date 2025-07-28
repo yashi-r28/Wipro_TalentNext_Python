@@ -1,1 +1,1 @@
- Wipro talentNext python training assignment 1
+ Wipro talentNext python training milestone assignment 1 and 2
